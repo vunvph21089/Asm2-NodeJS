@@ -1,0 +1,10 @@
+
+    Chức năng đã làm đc:
+- Thêm sửa xóa project
+- Thêm xóa ảnh 
+- Thêm sửa xóa catgories
+- Đăng nhập , đăng ký , đăng xuất ,check role 
+- Chặn vào trang admin khi chưa đăng nhập 
+- Quản lý user(chỉnh role , xóa user)
+- Quản lý skill( thêm sửa xóa technologies)
+- validate (từ server chả về)
